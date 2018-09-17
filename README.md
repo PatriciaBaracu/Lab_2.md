@@ -1,6 +1,6 @@
 # Lab_2.md
 
-Baracu Patricia 
+ 
 
 
 Exercise 1 
